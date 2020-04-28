@@ -1,9 +1,10 @@
 /* **********************************************************************
  * ScrollingTabsControl - Class that each directive will instantiate
  * **********************************************************************/
-function ScrollingTabsControl($tabsContainer) {
+function ScrollingTabsControl($tabsContainer, settings) {
   var stc = this;
 
+  stc.settings = settings;
   stc.$tabsContainer = $tabsContainer;
   stc.instanceId = $.fn.scrollingTabs.nextInstanceId++;
 

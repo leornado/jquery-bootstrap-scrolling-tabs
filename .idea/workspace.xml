@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4220748-ff43-4a3b-a415-fe6625d868b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/jquery.scrolling-tabs.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/markup-only.html" beforeDir="false" afterPath="$PROJECT_DIR$/run/markup-only.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/buildTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/buildTabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/elementsHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/elementsHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/scrollingTabsControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/scrollingTabsControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/jquery.scrolling-tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/jquery.scrolling-tabs.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Java/idea13_ws/idea_plugins_ws/clean-code-method-rearranger" value="PREVIEW" />
+        <entry key="D:/Java/idea13_ws/learn/ChatRoom" value="PREVIEW" />
+        <entry key="D:/Java/idea13_ws/temp/mybatis-plus" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bA3g5xMpkyrGdDp15OB5YRWd1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\temp\git\jquery-bootstrap-scrolling-tabs\src\js" />
+      <recent name="D:\temp\git\jquery-bootstrap-scrolling-tabs\run" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>build</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.build" />
+        <item itemvalue="Gulp.js.default" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4220748-ff43-4a3b-a415-fe6625d868b1" name="Default Changelist" comment="" />
+      <created>1588061178791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588061178791</updated>
+      <workItem from="1588061181970" duration="4199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1424" height="273" key="GridCell.Tab.0.bottom" timestamp="1588066794929">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1424" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1588066794929" />
+    <state width="1424" height="273" key="GridCell.Tab.0.center" timestamp="1588066794929">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1424" height="273" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1588066794929" />
+    <state width="1424" height="273" key="GridCell.Tab.0.left" timestamp="1588066794929">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1424" height="273" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1588066794929" />
+    <state width="1424" height="273" key="GridCell.Tab.0.right" timestamp="1588066794929">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1424" height="273" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1588066794929" />
+    <state x="636" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1588061182314">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="636" y="355" key="com.intellij.ide.util.TipDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1588061182314" />
+    <state x="183" y="24" width="1570" height="983" key="find.popup" timestamp="1588072814724">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="183" y="24" width="1570" height="983" key="find.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1588072814724" />
+  </component>
+</project>

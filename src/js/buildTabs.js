@@ -236,9 +236,9 @@ function wrapNavTabsInstanceInScroller($navTabsInstance, settings, readyCallback
   $navTabsInstance
     .find('a[data-toggle="tab"]')
     .removeData(CONSTANTS.DATA_KEY_BOOTSTRAP_TAB);
-  
+
   var $scroller = tabElements.getNewElScrollerElementWrappingNavTabsInstance($navTabsInstance.clone(true), settings), // use clone because we replaceWith later
-      scrollingTabsControl = new ScrollingTabsControl($scroller),
+      scrollingTabsControl = new ScrollingTabsControl($scroller, settings),
       navTabsInstanceData = $navTabsInstance.data('scrtabs');
 
   if (!navTabsInstanceData) {

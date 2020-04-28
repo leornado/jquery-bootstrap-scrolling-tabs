@@ -86,3 +86,25 @@ $scrtabs-background-color-hover: rgb(238, 238, 238) !default;
 .scrtabs-tabs-fixed-container ul.nav-tabs > li {
   white-space: nowrap;
 }
+
+.scrtabs-tab-scroll-arrow.arrow-visible {
+  display: block;
+}
+
+.scrtabs-tab-scroll-arrow.arrow-invisible {
+  display: none;
+}
+
+.scrtabs-tab-scroll-arrow.force-show {
+  display: block;
+}
+
+.scrtabs-tab-scroll-arrow.arrow-visible.force-show {
+  display: block;
+  visibility: visible;
+}
+
+.scrtabs-tab-scroll-arrow.arrow-invisible.force-show {
+  display: block;
+  visibility: hidden;
+}

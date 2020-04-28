@@ -328,17 +328,19 @@ function ElementsHandler(scrollingTabsControl) {
     p.setScrollArrowVisibility = function () {
       var ehd = this,
           stc = ehd.stc,
-          shouldBeVisible = stc.movableContainerWidth > stc.fixedContainerWidth;
+          shouldBeVisible = stc.movableContainerWidth > stc.fixedContainerWidth,
+          forceShowArrow = stc.settings.forceShowArrow === true;
 
+      if (forceShowArrow) stc.$scrollArrows.addClass('force-show');
       if (shouldBeVisible && !stc.scrollArrowsVisible) {
-        stc.$scrollArrows.show();
+        stc.$scrollArrows.addClass('arrow-visible');
         stc.scrollArrowsVisible = true;
       } else if (!shouldBeVisible && stc.scrollArrowsVisible) {
-        stc.$scrollArrows.hide();
+        stc.$scrollArrows.addClass('arrow-invisible');
         stc.scrollArrowsVisible = false;
       }
 
-      if (stc.scrollArrowsVisible) {
+      if (stc.scrollArrowsVisible || forceShowArrow) {
         ehd.setFixedContainerWidthForVisibleScrollArrows();
       } else {
         ehd.setFixedContainerWidthForHiddenScrollArrows();
